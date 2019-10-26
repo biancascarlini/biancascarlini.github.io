@@ -2,4 +2,5 @@ theme: jekyll-theme-minimal
 
 title: Bianca Scarlini
 
-
+description:
+  [Publications](./publications.md)
