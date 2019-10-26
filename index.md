@@ -1,37 +1,3 @@
-## Welcome to GitHub Pages
+## About
 
-You can use the [editor on GitHub](https://github.com/biancascarlini/biancascarlini.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/biancascarlini/biancascarlini.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+I am a 2nd year PhD student at [Sapienza University of Rome](https://www.uniroma1.it/en/). I am part of the [Linguistic Computing Laboratory](http://lcl.uniroma1.it/) team led by prof. [Roberto Navigli](http://wwwusers.di.uniroma1.it/~navigli/). My main research focus is in **Multilingual Lexical Semantics** and I am currently interested in Word Sense Disambiguation and building novel multilingual semantic representations. Get in touch with me through my social media channels linked on this page!
